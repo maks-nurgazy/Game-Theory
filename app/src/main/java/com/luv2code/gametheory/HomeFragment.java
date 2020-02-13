@@ -10,6 +10,8 @@ import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 
+import com.luv2code.gametheory.activities.NotesActivity;
+
 
 /**
  * A simple {@link Fragment} subclass.
